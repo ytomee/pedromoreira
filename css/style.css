@@ -11050,12 +11050,12 @@ fieldset[disabled] .btn-danger {
 
 @font-face {
 	font-family: 'FontAwesome';
-	src: url("pedromoreira/fonts/fontawesome-webfont.eot?v=4.5.0");
-	src: url("pedromoreira/fonts/fontawesome-webfont.eot?#iefix&v=4.5.0") format("embedded-opentype"),
-		 url("pedromoreira/fonts/fontawesome-webfont.woff2") format("woff2"),
-		 url("pedromoreira/fonts/fontawesome-webfont.woff") format("woff"),
-		 url("pedromoreira/fonts/fontawesome-webfont.ttf") format("truetype"),
-		 url("pedromoreira/fonts/fontawesome-webfont.svg?v=4.5.0#fontawesomeregular") format("svg");
+	src: url("/fonts/fontawesome-webfont.eot");
+	src: url("/fonts/fontawesome-webfont.eot") format("embedded-opentype"),
+		 url("/fonts/fontawesome-webfont.woff2") format("woff2"),
+		 url("/fonts/fontawesome-webfont.woff") format("woff"),
+		 url("/fonts/fontawesome-webfont.ttf") format("truetype"),
+		 url("/fonts/fontawesome-webfont.svg?v=4.5.0#fontawesomeregular") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -13780,12 +13780,12 @@ fieldset[disabled] .btn-danger {
 
 @font-face {
 	font-family: "Material Design Icons";
-	src: url("pedromoreira/fonts/materialdesignicons-webfont.eot?v=1.4.57");
-	src: url("pedromoreira/fonts/materialdesignicons-webfont.eot?#iefix&v=1.4.57") format("embedded-opentype"),
-		 url("pedromoreira/fonts/materialdesignicons-webfont.woff2") format("woff2"),
-		 url("pedromoreira/fonts/materialdesignicons-webfont.woff") format("woff"),
-		 url("pedromoreira/fonts/materialdesignicons-webfont.ttf") format("truetype"),
-		 url("pedromoreira/fonts/materialdesignicons-webfont.svg?v=1.4.57#materialdesigniconsregular") format("svg");
+	src: url("/fonts/materialdesignicons-webfont.eot?v=1.4.57");
+	src: url("/fonts/materialdesignicons-webfont.eot?#iefix&v=1.4.57") format("embedded-opentype"),
+		 url("/fonts/materialdesignicons-webfont.woff2") format("woff2"),
+		 url("/fonts/materialdesignicons-webfont.woff") format("woff"),
+		 url("/fonts/materialdesignicons-webfont.ttf") format("truetype"),
+		 url("/fonts/materialdesignicons-webfont.svg?v=1.4.57#materialdesigniconsregular") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -28173,7 +28173,7 @@ html[data-x-mode]:not(.lt-ie10) .not-animated {
 	display: none;
 	width: 100%;
 	-webkit-tap-highlight-color: transparent;
-	/* position relative and z-index fix webkit rendering pedromoreira/fonts issue */
+	/* position relative and z-index fix webkit rendering /fonts issue */
 	position: relative;
 	z-index: 1;
 }
@@ -28753,11 +28753,11 @@ html[data-x-mode]:not(.lt-ie10) .not-animated {
 
 @font-face {
 	font-family: lg;
-	src: url("pedromoreira/fonts/lg.eot?n1z373");
-	src: url("pedromoreira/fonts/lg.eot?#iefixn1z373") format("embedded-opentype"),
-		 url("pedromoreira/fonts/lg.woff?n1z373") format("woff"),
-		 url("pedromoreira/fonts/lg.ttf?n1z373") format("truetype"),
-		 url("pedromoreira/fonts/lg.svg?n1z373#lg") format("svg");
+	src: url("/fonts/lg.eot?n1z373");
+	src: url("/fonts/lg.eot?#iefixn1z373") format("embedded-opentype"),
+		 url("/fonts/lg.woff?n1z373") format("woff"),
+		 url("/fonts/lg.ttf?n1z373") format("truetype"),
+		 url("/fonts/lg.svg?n1z373#lg") format("svg");
 	font-weight: 400;
 	font-style: normal;
 }
